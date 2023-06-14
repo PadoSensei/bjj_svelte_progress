@@ -1,0 +1,32 @@
+{
+    "moveName": "Scissor sweep",
+    "moveCategory": "sweep",
+    "moveID": "0007",
+    "moveImage": "https://i.ytimg.com/vi/X-PA21_0xTg/maxresdefault.jpg",
+    "description": "The scissor sweep is a fundamental sweep from closed guard that involves using your legs to create an angle and off-balance your opponent.",
+    "instructions": [
+        "Establish a strong grip on your opponent's collar and sleeve.",
+        "Using your legs, pull your opponent down and towards you to break their posture.",
+        "Place one foot on their hip and the other foot on the opposite knee.",
+        "Extend your leg on their hip while pulling on their sleeve, causing your opponent to post their hand on the mat.",
+        "Use your other foot to scissor your legs and sweep your opponent over you.",
+        "As your opponent falls, come up to a dominant position like mount or back control."
+    ],
+    "commonMistakes": [
+        "Failing to break your opponent's posture.",
+        "Not extending your leg on their hip enough, making it easy for your opponent to defend.",
+        "Failing to scissor your legs effectively.",
+        "Not transitioning to a dominant position after the sweep."
+    ],
+    "variations": [
+        "Armbar setup from scissor sweep.",
+        "Scissor sweep to triangle.",
+        "Scissor sweep to back take."
+    ],
+    "tips": [
+        "Focus on creating an angle with your legs to off-balance your opponent.",
+        "Be patient and wait for the right moment to execute the sweep.",
+        "Maintain your grips throughout the sweep to control your opponent.",
+        "Transition smoothly to a dominant position after the sweep."
+    ]
+}

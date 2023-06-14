@@ -1,0 +1,58 @@
+{
+    "moveName": "Triangle from Closed Guard",
+    "moveCategory": "submission",
+    "moveID": "0008",
+    "moveImage": "https://www.grapplearts.com/wp-content/uploads/2018/05/New-Favorite-Triangle-Choke-Set-Up.jpg",
+    "description": "The triangle from closed guard is a submission technique where you use your legs to cut off your opponent's circulation and air supply, forcing them to tap out.",
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start in closed guard with your opponent inside your guard."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Control your opponent's posture by holding onto their collar and pulling them down towards you."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Use your legs to open your guard and place one foot on your opponent's hip."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Bring your other foot across your opponent's body and place it on their opposite hip."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Use your foot on their hip to push them away and create space to bring your leg across their neck."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Squeeze your knees together to cut off your opponent's circulation and air supply."
+      },
+      {
+        "stepNumber": 7,
+        "description": "Use your free hand to grab your shin and pull it down towards your opponent's neck to tighten the triangle."
+      },
+      {
+        "stepNumber": 8,
+        "description": "Maintain control and apply pressure until your opponent taps out."
+      }
+    ],
+    "commonMistakes": [
+      "Failing to control your opponent's posture.",
+      "Bringing your leg across your opponent's shoulder instead of their neck.",
+      "Failing to squeeze your knees together to cut off your opponent's circulation and air supply.",
+      "Not pulling down on your shin to tighten the triangle."
+    ],
+    "variations": [
+      "Reverse triangle from closed guard.",
+      "Triangle from open guard.",
+      "Armbar setup from triangle."
+    ],
+    "tips": [
+      "Practice maintaining control of your opponent's posture.",
+      "Work on creating space and bringing your leg across your opponent's neck quickly.",
+      "Focus on squeezing your knees together to apply pressure to your opponent's neck."
+    ]
+  }
+  

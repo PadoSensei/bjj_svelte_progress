@@ -1,0 +1,30 @@
+{
+    "moveName": "Hip bump sweep",
+    "moveCategory": "sweep",
+    "moveID": "0002",
+    "moveImage": "https://bjj-world.com/wp-content/uploads/2019/02/hip-bump-rollover-sweep-from-gua.jpg",
+    "description": "The hip bump sweep is a basic sweep from closed guard that involves using your hips to off-balance your opponent and create space for you to come up to a dominant position.",
+    "instructions": [
+        "Establish a strong grip on your opponent's collar and sleeve.",
+        "Using your legs, pull your opponent down and towards you to break their posture.",
+        "While maintaining the grip, shift your hips to one side and post your foot on the ground.",
+        "Bump your hips and push off with your foot to sweep your opponent over you.",
+        "As your opponent falls, come up to a dominant position like mount or back control."
+    ],
+    "commonMistakes": [
+        "Failing to break your opponent's posture.",
+        "Not posting the foot on the ground to create a base for the sweep.",
+        "Using too much force and energy, making it easy for your opponent to defend.",
+        "Failing to come up to a dominant position once your opponent is swept."
+    ],
+    "variations": [
+        "Kimura sweep from closed guard.",
+        "Hip bump sweep to armbar."
+    ],
+    "tips": [
+        "Practice controlling your opponent's posture before attempting the sweep.",
+        "Be patient and wait for the right moment to execute the sweep.",
+        "Maintain your grips throughout the sweep to control your opponent.",
+        "Transition smoothly to a dominant position after the sweep."
+    ]
+}

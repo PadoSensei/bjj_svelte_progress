@@ -1,0 +1,34 @@
+{
+    "moveName": "Flower Sweep",
+    "category": "Sweep",
+    "moveID": "0001",
+    "moveImage": "https://offer.bjjfanatics.com/wp-content/uploads/2016/11/flowersweep.jpg",
+    "description": "The flower sweep is a fundamental sweep in BJJ that involves using your legs to sweep your opponent to the side while maintaining control of their upper body.",
+    "instructions": [
+        "Start in closed guard with your opponent inside your guard.",
+        "Control your opponent's posture by holding onto their collar and pulling them down towards you.",
+        "Use one of your hands to grab your opponent's same-side sleeve and pull it across your body.",
+        "Use your other hand to grab your opponent's opposite-side collar.",
+        "Push off with your foot on the same side as the sleeve you are holding to create space.",
+        "Place your foot on your opponent's hip on the same side as the collar you are holding.",
+        "Pull your opponent towards you with the collar grip and use your foot on their hip to push them to the side.",
+        "Maintain control of their upper body as you come up to a seated position and establish top control."
+    ],
+    "commonMistakes": [
+        "Failing to control your opponent's posture.",
+        "Not getting a good grip on the sleeve and collar.",
+        "Not creating enough space to place your foot on your opponent's hip.",
+        "Failing to maintain control of your opponent's upper body as you sweep them."
+    ],
+    "variations": [
+        "Flower sweep to armbar.",
+        "Flower sweep to triangle.",
+        "Flower sweep to back take."
+    ],
+    "tips": [
+        "Practice controlling your opponent's posture.",
+        "Focus on getting a strong grip on the sleeve and collar.",
+        "Create enough space to place your foot on your opponent's hip.",
+        "Maintain control of your opponent's upper body throughout the sweep."
+    ]
+}
