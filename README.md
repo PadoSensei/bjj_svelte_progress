@@ -1,6 +1,6 @@
 # To Do
 
-- get project on github
+- ~~get project on github~~
 - get project deployed {
   firebase user
   }
