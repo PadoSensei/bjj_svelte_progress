@@ -1,7 +1,13 @@
 # To Do
 
 - ~~get project on github~~
-- get project deployed {
+- ~~get project deployed - static ~~
+  timer and scoring implemented for memory game
+  game logic for next games{
+  pic2labels
+  label2pics
+  }
+  deploy fullstack{
   firebase user
   }
 - git discipline { - code reviews - docs - testing - use gpt / co pilot branch mgmt
@@ -9,9 +15,18 @@
 - connect to Bly
 - create tasks / sprints
 
+## Current deployment status
+
+Static deployment on git pages
+https://padosensei.github.io/bjj_svelte_progress/
+
+How do we deploy dyanamic
+
 ## Push Ball Forward Tasks
 
-- Navigate the UI - pages and links
+- Navigate the UI - pages and links {
+  knowledge of sveltekit routing and file structure
+  }
 - go with pico
 - Represent the data on all pages
 - Create stores for game logic, pull cards from central app store so that mastery etc can be updated
@@ -31,14 +46,17 @@
 
 ## Research topics
 
-- Figma (how can we turn a picture into a fill in the blanks html template)
+- Sveltekit video
+- Figma (how can we turn a picture into a fill in the blanks html template) wireframes
 - midjourney - create some layouts for figma to work with
 - firebase user auth etc
 - project mgmt { - UI - Auth backend - App logic - Routing / Deployment / C/I
   }
 - css {
-  scrimba - work the programme
-  app ideas
+  scrimba - work the programme, css, that ai app
+  app ideas {
+  wrap something basic around a chatgpt request
+  }
   }
 
 ## Structure
