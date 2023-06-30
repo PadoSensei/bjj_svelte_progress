@@ -9,16 +9,20 @@
 	import { STATUS } from '../store/status_enum.js';
 	import { shuffle } from '../helpers/shuffle.js';
 
+	// this line loads a set of moves prop
 	export let moves = [];
 
 	let show = 'text';
+
+	// game settings dictate what to show on card, the game size
+	// letMatched will count available pairs to match
 	let settings = {
 		show: 'image',
 		gameSize: moves.length
 	};
 
 	function restartGame() {
-        console.log('trigger restart...')
+		console.log('trigger restart...');
 		return {
 			leftMatched: settings.gameSize,
 			//   highestSpeed: localStorage.getItem("highestSpeed") || "",
@@ -62,7 +66,7 @@
 
 		return randomizedDuplicatedMoves;
 	}
-    
+
 	const gameMoves = getMemoryCards(moves);
 	console.log(gameMoves);
 	triggerRestart();

@@ -1,32 +1,32 @@
 {
-    "moveName": "Pendulum Sweep",
-    "category": "sweep",
-    "moveID": "0006",
-    "moveImage": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTc0NDY3NDc2MzM4NTgyODg4/how-to-do-a-pendulum-sweep.png",
-    "description": "The pendulum sweep is a basic sweep from closed guard that uses your legs to off-balance your opponent and sweep them to the side.",
-    "instructions": [
-        "Start in closed guard with your opponent inside your guard.",
-        "Establish a strong grip on your opponent's sleeve and control their posture with your other hand.",
-        "Extend your legs and shift your hips to the side to create space to swing your legs.",
-        "Swing your legs to one side while pulling your opponent's arm across their body.",
-        "Use your leg to push your opponent away and off-balance them, then use your other leg to sweep them to the side.",
-        "Establish a dominant position on top of your opponent."
-    ],
-    "commonMistakes": [
-        "Failing to establish a strong grip on your opponent's sleeve.",
-        "Not controlling your opponent's posture effectively.",
-        "Not extending your legs and shifting your hips to create space for the sweep.",
-        "Not swinging your legs with enough force to off-balance your opponent.",
-        "Not using your other leg to complete the sweep."
-    ],
-    "variations": [
-        "Collar drag sweep",
-        "Hip bump sweep from pendulum setup",
-        "Triangle setup from pendulum sweep"
-    ],
-    "tips": [
-        "Focus on establishing a strong grip on your opponent's sleeve and controlling their posture.",
-        "Use your legs to create space for the sweep by extending them and shifting your hips.",
-        "Swing your legs with enough force to off-balance your opponent and complete the sweep."
-    ]
+	"moveName": "Pendulum Sweep",
+	"category": "sweep",
+	"moveID": "0006",
+	"moveImage": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTc0NDY3NDc2MzM4NTgyODg4/how-to-do-a-pendulum-sweep.png",
+	"description": "The pendulum sweep is a basic sweep from closed guard that uses your legs to off-balance your opponent and sweep them to the side.",
+	"instructions": [
+		"Start in closed guard with your opponent inside your guard.",
+		"Establish a strong grip on your opponent's sleeve and control their posture with your other hand.",
+		"Extend your legs and shift your hips to the side to create space to swing your legs.",
+		"Swing your legs to one side while pulling your opponent's arm across their body.",
+		"Use your leg to push your opponent away and off-balance them, then use your other leg to sweep them to the side.",
+		"Establish a dominant position on top of your opponent."
+	],
+	"commonMistakes": [
+		"Failing to establish a strong grip on your opponent's sleeve.",
+		"Not controlling your opponent's posture effectively.",
+		"Not extending your legs and shifting your hips to create space for the sweep.",
+		"Not swinging your legs with enough force to off-balance your opponent.",
+		"Not using your other leg to complete the sweep."
+	],
+	"variations": [
+		"Collar drag sweep",
+		"Hip bump sweep from pendulum setup",
+		"Triangle setup from pendulum sweep"
+	],
+	"tips": [
+		"Focus on establishing a strong grip on your opponent's sleeve and controlling their posture.",
+		"Use your legs to create space for the sweep by extending them and shifting your hips.",
+		"Swing your legs with enough force to off-balance your opponent and complete the sweep."
+	]
 }

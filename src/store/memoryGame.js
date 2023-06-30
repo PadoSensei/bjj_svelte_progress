@@ -1,10 +1,15 @@
 // Memory store
+// Game state and functions that get called by the game container
 import { writable } from 'svelte/store';
 // import { copyObject } from '../lib/utils.js';
 import { dummyMoves } from '../dummy/dummyMoves';
 
+// game state
 let state = {};
+const { subscribe, set, update } = writable(state);
 let timerId;
+
+// game status handler controls timer
 let statusHandler = {
 	PLAYING: function () {
 		timerId = setInterval(function () {
@@ -21,8 +26,8 @@ let statusHandler = {
 	}
 };
 
-const { subscribe, set, update } = writable(state);
-
+// resets game state
+// REFACTOR: Consider using a Game class
 function reset(newState) {
 	state.leftMatched = newState.leftMatched;
 	state.highestSpeed = newState.highestSpeed;
@@ -41,6 +46,7 @@ function reset(newState) {
 function updateStatus(newStatus) {
 	state.status = newStatus;
 	set(state);
+
 	statusHandler[newStatus]();
 }
 
@@ -49,6 +55,7 @@ function decreaseMatch() {
 	set(state);
 }
 
+// onclick card is flipped by finding the same card in state and flipping it
 function flip(card) {
 	console.log('flip firing');
 	var c = state.cards.find((cc) => cc == card);
@@ -56,6 +63,7 @@ function flip(card) {
 	set(state);
 }
 
+// on the timer, filter state cards for upturned cards and flip back
 function flipCards(cards) {
 	console.log('flipCards firing');
 	state.cards

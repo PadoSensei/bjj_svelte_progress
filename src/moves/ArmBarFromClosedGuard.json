@@ -1,33 +1,51 @@
 {
-    "moveName": "Armbar from Closed Guard",
-    "category": "submission",
-    "moveID": "0000",
-    "moveImage": "https://www.bjjee.com/wp-content/uploads/2020/10/armbar.jpg",
-    "description": "The armbar from closed guard is a submission technique where you use your legs and hips to hyperextend your opponent's arm, forcing them to tap out.",
-    "instructions": [
-        {"id": 1, "text": "Start in closed guard with your opponent inside your guard."},
-        {"id": 2, "text": "Control your opponent's posture by holding onto their collar and pulling them down towards you."},
-        {"id": 3, "text": "Use your legs to open your guard and place one foot on your opponent's hip."},
-        {"id": 4, "text": "Bring your other foot across your opponent's body and place it on their opposite hip."},
-        {"id": 5, "text": "Use your legs and hips to lift your hips up and pull your opponent's arm across your body."},
-        {"id": 6, "text": "Place your leg over your opponent's head and hook their arm with your leg."},
-        {"id": 7, "text": "Squeeze your knees together and extend your hips to hyperextend your opponent's arm."},
-        {"id": 8, "text": "Maintain control and apply pressure until your opponent taps out."}
-    ],
-    "commonMistakes": [
-        "Failing to control your opponent's posture.",
-        "Failing to lift your hips up and pull your opponent's arm across your body.",
-        "Not hooking your opponent's arm with your leg.",
-        "Not squeezing your knees together and extending your hips to apply pressure."
-    ],
-    "variations": [
-        "Armbar from open guard.",
-        "Armbar setup from triangle.",
-        "Armbar setup from omoplata."
-    ],
-    "tips": [
-        "Practice maintaining control of your opponent's posture.",
-        "Work on lifting your hips up and pulling your opponent's arm across your body quickly.",
-        "Focus on squeezing your knees together and extending your hips to apply pressure to your opponent's arm."
-    ]
+	"moveName": "Armbar from Closed Guard",
+	"category": "submission",
+	"moveID": "0000",
+	"moveImage": "https://www.bjjee.com/wp-content/uploads/2020/10/armbar.jpg",
+	"description": "The armbar from closed guard is a submission technique where you use your legs and hips to hyperextend your opponent's arm, forcing them to tap out.",
+	"instructions": [
+		{ "id": 1, "text": "Start in closed guard with your opponent inside your guard." },
+		{
+			"id": 2,
+			"text": "Control your opponent's posture by holding onto their collar and pulling them down towards you."
+		},
+		{
+			"id": 3,
+			"text": "Use your legs to open your guard and place one foot on your opponent's hip."
+		},
+		{
+			"id": 4,
+			"text": "Bring your other foot across your opponent's body and place it on their opposite hip."
+		},
+		{
+			"id": 5,
+			"text": "Use your legs and hips to lift your hips up and pull your opponent's arm across your body."
+		},
+		{
+			"id": 6,
+			"text": "Place your leg over your opponent's head and hook their arm with your leg."
+		},
+		{
+			"id": 7,
+			"text": "Squeeze your knees together and extend your hips to hyperextend your opponent's arm."
+		},
+		{ "id": 8, "text": "Maintain control and apply pressure until your opponent taps out." }
+	],
+	"commonMistakes": [
+		"Failing to control your opponent's posture.",
+		"Failing to lift your hips up and pull your opponent's arm across your body.",
+		"Not hooking your opponent's arm with your leg.",
+		"Not squeezing your knees together and extending your hips to apply pressure."
+	],
+	"variations": [
+		"Armbar from open guard.",
+		"Armbar setup from triangle.",
+		"Armbar setup from omoplata."
+	],
+	"tips": [
+		"Practice maintaining control of your opponent's posture.",
+		"Work on lifting your hips up and pulling your opponent's arm across your body quickly.",
+		"Focus on squeezing your knees together and extending your hips to apply pressure to your opponent's arm."
+	]
 }

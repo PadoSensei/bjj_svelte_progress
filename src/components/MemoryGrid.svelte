@@ -8,39 +8,47 @@
 	export let cards = [];
 	let lastCard = null;
 
+	// fired on click
 	function onFlipped(e) {
-		console.log('matching...')
+		console.log('matching...');
 		const card = e.detail;
-		console.log(e.detail)
+
+		// starts game if game not already in play
 		if ($store.status === STATUS.READY) {
 			store.updateStatus(STATUS.PLAYING);
 		}
 
+		// checks if a lastcard value has been stored
+		// if not, stores card
 		if (!lastCard) {
-			console.log('card is card')
+			console.log('card is card');
 			lastCard = card;
+
 			return;
 		}
 
+		// if cards match
+		// the entities are not the same but their names match
 		if (lastCard !== card && lastCard.moveName === card.moveName) {
-			console.log('firing matcher')
-			console.log(card)
-			console.log(lastCard)
+			// reset last card
 			lastCard = null;
+			// decrease avail matches
+			// exit function and report one less match avail
 			store.match();
 			return $store.leftMatched || store.updateStatus(STATUS.PASS);
 		}
 
+		// if no match, flip back
 		const oldCard = lastCard;
 		lastCard = null;
 
-		console.log(oldCard, card)
+		// cards to flip
+		console.log(oldCard, card);
 
 		setTimeout(() => {
 			store.flipCards([oldCard, card]);
 		}, 1000);
 	}
-
 </script>
 
 <div class="memory-board">

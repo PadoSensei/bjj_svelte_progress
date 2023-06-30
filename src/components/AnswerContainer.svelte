@@ -1,12 +1,10 @@
 <script>
-    import AnswerImageCard from "./AnswerImageCard.svelte";
-
+	import AnswerImageCard from './AnswerImageCard.svelte';
 </script>
 
-<style>
- 
-</style>
-
-<div class='answer-container'>
-    <slot></slot>
+<div class="answer-container">
+	<slot />
 </div>
+
+<style>
+</style>

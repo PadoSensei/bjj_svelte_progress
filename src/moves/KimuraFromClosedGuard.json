@@ -1,32 +1,32 @@
 {
-    "moveName": "Kimura from Closed Guard",
-    "moveCategory": "submission",
-    "moveID": "0003",
-    "moveImage": "https://www.grapplearts.com/wp-content/uploads/2018/03/closed-guard-Kimura-armlock-from-closed-guard.png",
-    "description": "The kimura from closed guard is a submission technique where you use a figure-four grip on your opponent's arm to apply pressure to their shoulder joint.",
-    "instructions": [
-        "Start in closed guard with your opponent inside your guard.",
-        "Grab your opponent's wrist with one hand and reach your other hand behind their arm to grab your own wrist, creating a figure-four grip.",
-        "Use your legs to open your guard and place one foot on your opponent's hip.",
-        "Bring your other foot across your opponent's body and place it on their opposite hip.",
-        "Use your foot on their hip to push them away and create space to bring your opponent's arm across your body.",
-        "Roll onto your side and apply pressure to your opponent's shoulder joint by pulling their arm towards your chest.",
-        "Maintain control and apply pressure until your opponent taps out."
-    ],
-    "commonMistakes": [
-        "Failing to control your opponent's posture.",
-        "Failing to secure a figure-four grip on your opponent's arm.",
-        "Not creating enough space to bring your opponent's arm across your body.",
-        "Failing to roll onto your side and apply pressure to your opponent's shoulder joint."
-    ],
-    "variations": [
-        "Kimura from half guard.",
-        "Kimura from side control.",
-        "Kimura grip to sweep or transition."
-    ],
-    "tips": [
-        "Practice maintaining control of your opponent's posture.",
-        "Work on securing a strong figure-four grip on your opponent's arm.",
-        "Focus on creating enough space to bring your opponent's arm across your body."
-    ]
+	"moveName": "Kimura from Closed Guard",
+	"moveCategory": "submission",
+	"moveID": "0003",
+	"moveImage": "https://www.grapplearts.com/wp-content/uploads/2018/03/closed-guard-Kimura-armlock-from-closed-guard.png",
+	"description": "The kimura from closed guard is a submission technique where you use a figure-four grip on your opponent's arm to apply pressure to their shoulder joint.",
+	"instructions": [
+		"Start in closed guard with your opponent inside your guard.",
+		"Grab your opponent's wrist with one hand and reach your other hand behind their arm to grab your own wrist, creating a figure-four grip.",
+		"Use your legs to open your guard and place one foot on your opponent's hip.",
+		"Bring your other foot across your opponent's body and place it on their opposite hip.",
+		"Use your foot on their hip to push them away and create space to bring your opponent's arm across your body.",
+		"Roll onto your side and apply pressure to your opponent's shoulder joint by pulling their arm towards your chest.",
+		"Maintain control and apply pressure until your opponent taps out."
+	],
+	"commonMistakes": [
+		"Failing to control your opponent's posture.",
+		"Failing to secure a figure-four grip on your opponent's arm.",
+		"Not creating enough space to bring your opponent's arm across your body.",
+		"Failing to roll onto your side and apply pressure to your opponent's shoulder joint."
+	],
+	"variations": [
+		"Kimura from half guard.",
+		"Kimura from side control.",
+		"Kimura grip to sweep or transition."
+	],
+	"tips": [
+		"Practice maintaining control of your opponent's posture.",
+		"Work on securing a strong figure-four grip on your opponent's arm.",
+		"Focus on creating enough space to bring your opponent's arm across your body."
+	]
 }

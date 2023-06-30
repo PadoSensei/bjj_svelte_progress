@@ -1,32 +1,28 @@
 {
-    "moveName": "Omoplata Sweep",
-    "category": "sweep",
-    "moveID": "0004",
-    "moveImage": "https://jiujitsutimes.com/wp-content/uploads/omoplata4.jpg",
-    "description": "The omoplata sweep is a submission and sweep combination from closed guard that attacks your opponent's shoulder joint.",
-    "instructions": [
-        "Start in closed guard with your opponent inside your guard.",
-        "Establish a strong grip on your opponent's sleeve and use your legs to control their posture.",
-        "Kick your leg over your opponent's shoulder and place your foot on their hip.",
-        "Rotate your hips to the side and use your other foot to hook behind your opponent's knee.",
-        "Pull your opponent's arm across their body and use your legs to sweep them to the side.",
-        "Establish a dominant position on top of your opponent and finish with the omoplata submission if desired."
-    ],
-    "commonMistakes": [
-        "Failing to establish a strong grip on your opponent's sleeve.",
-        "Not controlling your opponent's posture effectively with your legs.",
-        "Not kicking your leg over your opponent's shoulder with enough force.",
-        "Not hooking your other foot behind your opponent's knee effectively.",
-        "Failing to sweep your opponent to the side with your legs."
-    ],
-    "variations": [
-        "Omoplata to armbar",
-        "Omoplata to triangle",
-        "Omoplata to sweep to back take"
-    ],
-    "tips": [
-        "Focus on establishing a strong grip on your opponent's sleeve and controlling their posture with your legs.",
-        "Kick your leg over your opponent's shoulder with enough force to create space for the sweep.",
-        "Hook your other foot behind your opponent's knee effectively to control their movement and complete the sweep."
-    ]
+	"moveName": "Omoplata Sweep",
+	"category": "sweep",
+	"moveID": "0004",
+	"moveImage": "https://jiujitsutimes.com/wp-content/uploads/omoplata4.jpg",
+	"description": "The omoplata sweep is a submission and sweep combination from closed guard that attacks your opponent's shoulder joint.",
+	"instructions": [
+		"Start in closed guard with your opponent inside your guard.",
+		"Establish a strong grip on your opponent's sleeve and use your legs to control their posture.",
+		"Kick your leg over your opponent's shoulder and place your foot on their hip.",
+		"Rotate your hips to the side and use your other foot to hook behind your opponent's knee.",
+		"Pull your opponent's arm across their body and use your legs to sweep them to the side.",
+		"Establish a dominant position on top of your opponent and finish with the omoplata submission if desired."
+	],
+	"commonMistakes": [
+		"Failing to establish a strong grip on your opponent's sleeve.",
+		"Not controlling your opponent's posture effectively with your legs.",
+		"Not kicking your leg over your opponent's shoulder with enough force.",
+		"Not hooking your other foot behind your opponent's knee effectively.",
+		"Failing to sweep your opponent to the side with your legs."
+	],
+	"variations": ["Omoplata to armbar", "Omoplata to triangle", "Omoplata to sweep to back take"],
+	"tips": [
+		"Focus on establishing a strong grip on your opponent's sleeve and controlling their posture with your legs.",
+		"Kick your leg over your opponent's shoulder with enough force to create space for the sweep.",
+		"Hook your other foot behind your opponent's knee effectively to control their movement and complete the sweep."
+	]
 }

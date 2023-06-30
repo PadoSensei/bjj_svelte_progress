@@ -1,7 +1,7 @@
 <script>
-    export let label;
+	export let label;
 </script>
 
-<div >
-    <p>select the {label}</p>
+<div>
+	<p>select the {label}</p>
 </div>

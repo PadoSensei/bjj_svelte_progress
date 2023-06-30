@@ -1,15 +1,13 @@
 <script>
-import AnswerLabel from "./AnswerLabel.svelte";
-export let moveAnswer
-let answerArray =[
-    'ans1', 'ans2', 'ans3', 'ans4', 'ans5'
-]
+	import AnswerLabel from './AnswerLabel.svelte';
+	export let moveAnswer;
+	let answerArray = ['ans1', 'ans2', 'ans3', 'ans4', 'ans5'];
 
-answerArray.push(moveAnswer)
+	answerArray.push(moveAnswer);
 </script>
 
 <div class="grid">
-    {#each answerArray as answer}
-        <AnswerLabel label={answer}/>
-     {/each}
-  </div>
+	{#each answerArray as answer}
+		<AnswerLabel label={answer} />
+	{/each}
+</div>

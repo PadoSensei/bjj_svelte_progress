@@ -25,14 +25,14 @@
 	}
 
 	$: flipped = option.flipped ? 'flipped' : '';
-	console.log(option)
+	console.log(option);
 </script>
 
 <div class="container" on:click={flip}>
 	<div class="card {flipped}">
 		{#if option.show == 'image'}
 			<img class="front" src={option.moveImage} />
-			<div class='front'>{option.moveName}</div>
+			<div class="front">{option.moveName}</div>
 		{/if}
 		{#if option.show == 'text'}
 			<p class="front">{option.name}</p>
